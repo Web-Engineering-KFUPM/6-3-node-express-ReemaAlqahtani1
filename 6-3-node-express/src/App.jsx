@@ -207,7 +207,7 @@ How to Test the Output of the Lab
 
 4. Test the quote API route in the browser:
    Visit:
-      http://localhost:3000/api/quote
+      http://localhost :3000/api/quote
    Expected:
    - You should see JSON output like:
       { "quote": "some random quote here" }
