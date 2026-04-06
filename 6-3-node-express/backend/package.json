@@ -1,14 +1,26 @@
 {
-  "name": "backend",
+  "name": "6-3-node-express-reemaalqahtani1",
   "version": "1.0.0",
-  "type": "module",
-  "main": "quotes.js",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xMjL6PGF) # Backend Lab - Express",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Web-Engineering-KFUPM/6-3-node-express-ReemaAlqahtani1.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Web-Engineering-KFUPM/6-3-node-express-ReemaAlqahtani1/issues"
+  },
+  "homepage": "https://github.com/Web-Engineering-KFUPM/6-3-node-express-ReemaAlqahtani1#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "morgan": "^1.10.1"
+  }
 }
